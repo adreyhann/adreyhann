@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<div style="display: flex; justify-content: center; align-items: center; width: 100vw;">
+    <img alt="Coding" width="50%" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adreyhann&label=Profile%20views&color=0e75b6&style=flat" alt="adreyhann" /> </p>
 
